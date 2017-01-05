@@ -5,8 +5,8 @@ constructs a (3*3) "encoding matrix" manually and multiplies it by "message matr
 modified to be bigger and the more bigger it is the more secure encryption and beneficial parallelization.
 
 # Team members:
-- Mohamed Ibrahim(Github: mis94)
-- Osama Fathy(Github: OsamaFathy)
-- Hassan Abo-Rasheed(Github: Syrgeek)
+- Mohamed Ibrahim (Github: mis94)
+- Osama Fathy (Github: OsamaFathy)
+- Hassan Abo-Rasheed (Github: Syrgeek)
 
 Application source: http://aix1.uottawa.ca/~jkhoury/cryptography.htm
